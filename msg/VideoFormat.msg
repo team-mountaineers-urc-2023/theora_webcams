@@ -1,0 +1,2 @@
+string format
+Resolution[] resolutions
